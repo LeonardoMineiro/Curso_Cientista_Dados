@@ -1,2 +1,2 @@
-# Cuso_Cientista_Dados
+# Curso_Cientista_Dados
 Curso Cientista de Dados
